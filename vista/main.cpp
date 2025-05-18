@@ -6,10 +6,10 @@
 #include <iomanip>
 #include "ConexionBD.h"
 //#include "Puesto.h"
-//#include "Marca.h"
+#include "Marca.h"
 //#include "Proveedor.h"
 //#include "Producto.h"
-//#include "Empleado.h"
+#include "Empleado.h"
 //#include "Cliente.h"
 //#include "Compra.h"
 #include "Venta.h"
