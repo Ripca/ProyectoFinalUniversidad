@@ -1,0 +1,4 @@
+﻿  ConexionBD.cpp
+  main.cpp
+  Venta.cpp
+C:\Users\VELA\Desktop\SEMESTRE3\PROGRA\ProyectoFinalProgra\vista\main.cpp(8,10): error C1083: No se puede abrir el archivo incluir: 'Puesto.h': No such file or directory
